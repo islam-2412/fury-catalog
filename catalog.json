@@ -1,20 +1,5 @@
 {
     "version": 1,
-    "updated": 1791878683340,
-    "plugins": [
-        {
-            "id": "furybiss",
-            "name": "FuryBiss",
-            "description": "",
-            "version": "7.0",
-            "order": 1,
-            "visible": true,
-            "package": "enigma2-plugin-extensions-furybiss",
-            "icon": "icons/furybiss.png",
-            "restartGui": true,
-            "files": {
-                "all": "ipk/furybiss/enigma2-plugin-extensions-ipaudio7_2.07-r32_all.ipk"
-            }
-        }
-    ]
+    "updated": 1791880377478,
+    "plugins": []
 }

@@ -1,12 +1,12 @@
 {
     "version": 1,
-    "updated": 1791880470862,
+    "updated": 1791882906495,
     "plugins": [
         {
             "id": "furybiss",
             "name": "FuryBiss",
             "description": "بلاجين مجاني لجلب الفيدات",
-            "version": "7.0",
+            "version": "7.1",
             "order": 1,
             "visible": true,
             "package": "",
@@ -14,6 +14,9 @@
             "restartGui": true,
             "files": {},
             "installCommand": "wget -q  \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
             "screenshots": [
                 "screenshots/furybiss/2b5f0b19-01ab-4e89-8cc7-0a8f314077e3.jpg",
                 "screenshots/furybiss/bfe1f0d6-56e2-4849-b1f6-ce9a963562c6.jpg",

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791917999389,
+    "updated": 1791918240632,
     "plugins": [
         {
             "id": "furybiss",
@@ -52,5 +52,5 @@
             ]
         }
     ],
-    "statisticsUrl": "https://fury-activation.yassin-s76m.workers.dev"
+    "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev"
 }

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791897938096,
+    "updated": 1791911018060,
     "plugins": [
         {
             "id": "furybiss",
@@ -25,6 +25,30 @@
                 "screenshots/furybiss/2fda1e4e-4e89-4b7e-9026-d8dde5531521.jpg",
                 "screenshots/furybiss/8745ef00-7730-4e20-b92e-91c7de7a2c55.jpg",
                 "screenshots/furybiss/01f15186-097f-4636-93fb-265ba4d16706.jpg"
+            ]
+        },
+        {
+            "id": "fury-fhd",
+            "name": "Fury-FHD",
+            "description": "",
+            "publisher": "Islam Salama",
+            "version": "8.7",
+            "order": 1,
+            "visible": true,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "files": {},
+            "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/IPKS/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [
+                "screenshots/fury-fhd/ff5309d5-cb65-424c-9204-db5779d0c5fc.jpg",
+                "screenshots/fury-fhd/16afa321-e8ee-4220-89f9-9f2d1f6d3573.jpg",
+                "screenshots/fury-fhd/2027f1bc-a874-48c7-b531-27e6a6135c1f.jpg",
+                "screenshots/fury-fhd/aa4ee2a5-d024-46fb-afd6-35290990d1f2.jpg",
+                "screenshots/fury-fhd/b0e9fe49-37fa-48b2-82d4-75a6689c5c87.jpg"
             ]
         }
     ],

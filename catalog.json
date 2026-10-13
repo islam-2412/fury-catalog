@@ -1,11 +1,12 @@
 {
     "version": 1,
-    "updated": 1791883898507,
+    "updated": 1791897938096,
     "plugins": [
         {
             "id": "furybiss",
             "name": "FuryBiss",
             "description": "بلاجين مجاني لجلب الفيدات",
+            "publisher": "Islam Salama",
             "version": "7.2",
             "order": 1,
             "visible": true,
@@ -26,5 +27,6 @@
                 "screenshots/furybiss/01f15186-097f-4636-93fb-265ba4d16706.jpg"
             ]
         }
-    ]
+    ],
+    "statisticsUrl": ""
 }

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791911354560,
+    "updated": 1791911516596,
     "plugins": [
         {
             "id": "furybiss",
@@ -30,7 +30,7 @@
         {
             "id": "fury-fhd",
             "name": "Fury-FHD",
-            "description": "",
+            "description": "واجهه عصريه لمعظم صور الانيجما",
             "publisher": "Islam Salama",
             "version": "8.7",
             "order": 1,

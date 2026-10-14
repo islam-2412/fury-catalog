@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791955441250,
+    "updated": 1791965361322,
     "plugins": [
         {
             "id": "furybiss",
@@ -51,6 +51,28 @@
                 "screenshots/fury-fhd/2027f1bc-a874-48c7-b531-27e6a6135c1f.jpg",
                 "screenshots/fury-fhd/aa4ee2a5-d024-46fb-afd6-35290990d1f2.jpg",
                 "screenshots/fury-fhd/b0e9fe49-37fa-48b2-82d4-75a6689c5c87.jpg"
+            ]
+        },
+        {
+            "id": "servercoloring",
+            "name": "ServerColoring",
+            "description": "بلاجين مجاني لتلوين القنوات المشفره التي يفتحها السيرفر معتمدا علي Caid",
+            "publisher": "Islam Salama",
+            "version": "6.0",
+            "order": 2,
+            "visible": true,
+            "featured": false,
+            "package": "",
+            "icon": "icons/servercoloring.png",
+            "restartGui": true,
+            "files": {},
+            "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/ServerColoring/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [
+                "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
+                "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
             ]
         }
     ],

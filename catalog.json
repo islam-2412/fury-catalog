@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792000134090,
+    "updated": 1792003139098,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -115,6 +115,28 @@
             "restartGui": true,
             "files": {
                 "all": "beta-package:0905b595-aa19-4090-90fb-0954ce6a3afc/enigma2-plugin-extensions-vuscan_6.0-r0_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": []
+        },
+        {
+            "id": "ipaudio7-beta-2",
+            "name": "IPAudio7",
+            "description": "",
+            "publisher": "",
+            "version": "40",
+            "order": 5,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-ipaudio7",
+            "icon": "icons/ipaudio7-beta-2.png",
+            "restartGui": true,
+            "files": {
+                "all": "beta-package:6b072f02-7103-4c33-bbfb-059d864fb572/enigma2-plugin-extensions-ipaudio7_2.07-r40_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

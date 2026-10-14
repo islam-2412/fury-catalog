@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791997021779,
+    "updated": 1791997180858,
     "plugins": [
         {
             "id": "furybiss",
@@ -77,6 +77,28 @@
                 "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
                 "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
             ]
+        },
+        {
+            "id": "ipaudio7-beta",
+            "name": "IPAudio7",
+            "description": "",
+            "publisher": "",
+            "version": "v39",
+            "order": 3,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-ipaudio7",
+            "icon": "",
+            "restartGui": true,
+            "files": {
+                "all": "beta-package:a068abd0-a987-4a37-bd95-a68952b92fce/enigma2-plugin-extensions-ipaudio7_2.07-r39_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": []
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev"

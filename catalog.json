@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791965361322,
+    "updated": 1791994711064,
     "plugins": [
         {
             "id": "furybiss",
@@ -11,6 +11,7 @@
             "order": 1,
             "visible": true,
             "featured": false,
+            "beta": false,
             "package": "",
             "icon": "icons/furybiss.png",
             "restartGui": true,
@@ -37,6 +38,7 @@
             "order": 1,
             "visible": true,
             "featured": false,
+            "beta": false,
             "package": "",
             "icon": "icons/fury-fhd.png",
             "restartGui": true,
@@ -62,6 +64,7 @@
             "order": 2,
             "visible": true,
             "featured": false,
+            "beta": false,
             "package": "",
             "icon": "icons/servercoloring.png",
             "restartGui": true,
@@ -74,6 +77,28 @@
                 "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
                 "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
             ]
+        },
+        {
+            "id": "ipaudio7-beta",
+            "name": "IPAudio7",
+            "description": "",
+            "publisher": "",
+            "version": "تجريبي",
+            "order": 3,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-ipaudio7",
+            "icon": "",
+            "restartGui": true,
+            "files": {
+                "all": "beta-package:7e7e65f7-9ae0-4c55-ab3c-68c45a1aa93f/enigma2-plugin-extensions-ipaudio7_2.07-r38_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": []
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev"

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792003410891,
+    "updated": 1792004756301,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -15,6 +15,7 @@
             "package": "",
             "icon": "icons/fury-fhd.png",
             "restartGui": true,
+            "releaseId": "",
             "files": {},
             "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/IPKS/refs/heads/main/fury/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
@@ -41,6 +42,7 @@
             "package": "",
             "icon": "icons/furybiss.png",
             "restartGui": true,
+            "releaseId": "",
             "files": {},
             "installCommand": "wget -q  \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
@@ -68,6 +70,7 @@
             "package": "",
             "icon": "icons/servercoloring.png",
             "restartGui": true,
+            "releaseId": "",
             "files": {},
             "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/ServerColoring/refs/heads/main/fury/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
@@ -89,8 +92,9 @@
             "featured": false,
             "beta": true,
             "package": "enigma2-plugin-extensions-ipaudio7",
-            "icon": "",
+            "icon": "icons/ipaudio7-beta.png",
             "restartGui": true,
+            "releaseId": "",
             "files": {
                 "all": "beta-package:1a497f7e-f5aa-4728-816c-0433c3d721b1/enigma2-plugin-extensions-ipaudio7_2.07-r40_all.ipk"
             },
@@ -113,6 +117,7 @@
             "package": "enigma2-plugin-extensions-vuscan",
             "icon": "icons/vu-scan-beta.png",
             "restartGui": true,
+            "releaseId": "",
             "files": {
                 "all": "beta-package:0905b595-aa19-4090-90fb-0954ce6a3afc/enigma2-plugin-extensions-vuscan_6.0-r0_all.ipk"
             },

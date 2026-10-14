@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792003344155,
+    "updated": 1792003410891,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -83,7 +83,7 @@
             "name": "IPAudio7",
             "description": "",
             "publisher": "",
-            "version": "v40",
+            "version": "40",
             "order": 3,
             "visible": true,
             "featured": false,

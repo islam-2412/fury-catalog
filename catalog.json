@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791918240632,
+    "updated": 1791955441250,
     "plugins": [
         {
             "id": "furybiss",
@@ -10,6 +10,7 @@
             "version": "7.2",
             "order": 1,
             "visible": true,
+            "featured": false,
             "package": "",
             "icon": "icons/furybiss.png",
             "restartGui": true,
@@ -35,6 +36,7 @@
             "version": "8.7",
             "order": 1,
             "visible": true,
+            "featured": false,
             "package": "",
             "icon": "icons/fury-fhd.png",
             "restartGui": true,

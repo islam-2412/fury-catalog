@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1791997180858,
+    "updated": 1791999309427,
     "plugins": [
         {
             "id": "furybiss",
@@ -93,6 +93,28 @@
             "restartGui": true,
             "files": {
                 "all": "beta-package:a068abd0-a987-4a37-bd95-a68952b92fce/enigma2-plugin-extensions-ipaudio7_2.07-r39_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": []
+        },
+        {
+            "id": "vu-scan-beta",
+            "name": "Vu+ Scan",
+            "description": "",
+            "publisher": "",
+            "version": "6.0",
+            "order": 4,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-vuscan",
+            "icon": "icons/vu-scan-beta.png",
+            "restartGui": true,
+            "files": {
+                "all": "beta-package:0905b595-aa19-4090-90fb-0954ce6a3afc/enigma2-plugin-extensions-vuscan_6.0-r0_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

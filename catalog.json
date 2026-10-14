@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792005735376,
+    "updated": 1792012811198,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -82,29 +82,6 @@
             ]
         },
         {
-            "id": "ipaudio7-beta",
-            "name": "IPAudio7",
-            "description": "خاص بالتجارب",
-            "publisher": "",
-            "version": "39",
-            "order": 3,
-            "visible": true,
-            "featured": false,
-            "beta": true,
-            "package": "enigma2-plugin-extensions-ipaudio7",
-            "icon": "icons/ipaudio7-beta.png",
-            "restartGui": true,
-            "releaseId": "d71535be-d510-4167-98e4-d40d9ad11dfa",
-            "files": {
-                "all": "beta-package:3a48be9d-40ab-463c-87cc-b7f1a12ed487/enigma2-plugin-extensions-ipaudio7_2.07-r39_all.ipk"
-            },
-            "installCommand": "",
-            "commandPythonVersions": [
-                "all"
-            ],
-            "screenshots": []
-        },
-        {
             "id": "vu-scan-beta",
             "name": "Vu+ Scan",
             "description": "",
@@ -120,6 +97,29 @@
             "releaseId": "",
             "files": {
                 "all": "beta-package:0905b595-aa19-4090-90fb-0954ce6a3afc/enigma2-plugin-extensions-vuscan_6.0-r0_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": []
+        },
+        {
+            "id": "ipaudio7-beta",
+            "name": "IPAudio7",
+            "description": "",
+            "publisher": "",
+            "version": "39",
+            "order": 5,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-ipaudio7",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "2559af2f-ffbd-474a-b520-c23fa9bd8480",
+            "files": {
+                "all": "beta-package:48ec599e-9939-46b6-b38f-399e25e6d4f1/enigma2-plugin-extensions-ipaudio7_2.07-r39_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

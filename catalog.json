@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792005551963,
+    "updated": 1792005735376,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -111,7 +111,7 @@
             "publisher": "",
             "version": "6.0",
             "order": 4,
-            "visible": true,
+            "visible": false,
             "featured": false,
             "beta": true,
             "package": "enigma2-plugin-extensions-vuscan",

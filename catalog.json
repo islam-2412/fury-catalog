@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792045841221,
+    "updated": 1792059239884,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -86,7 +86,7 @@
             "name": "Vu+ Scan",
             "description": "",
             "publisher": "",
-            "version": "6.0",
+            "version": "6.1",
             "order": 4,
             "visible": false,
             "featured": false,
@@ -94,9 +94,9 @@
             "package": "enigma2-plugin-extensions-vuscan",
             "icon": "icons/vu-scan-beta.png",
             "restartGui": true,
-            "releaseId": "",
+            "releaseId": "fad49915-bf6b-47a8-9eeb-56021a0ad67a",
             "files": {
-                "all": "beta-package:0905b595-aa19-4090-90fb-0954ce6a3afc/enigma2-plugin-extensions-vuscan_6.0-r0_all.ipk"
+                "all": "beta-package:0fc3f498-3ff7-460b-b188-41478c18b2e3/enigma2-plugin-extensions-vuscan_6.1-r0_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

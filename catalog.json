@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792229191579,
+    "updated": 1792233183258,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -108,7 +108,7 @@
             "name": "IPAudio7",
             "description": "",
             "publisher": "",
-            "version": "65",
+            "version": "66",
             "order": 5,
             "visible": true,
             "featured": false,
@@ -116,9 +116,9 @@
             "package": "enigma2-plugin-extensions-ipaudio7",
             "icon": "",
             "restartGui": true,
-            "releaseId": "68c4b6a0-9ee9-40d9-8fc6-e441d6e89302",
+            "releaseId": "965b1ee0-bedf-4697-b909-44b1c26a5457",
             "files": {
-                "all": "beta-package:453099a6-e8e4-4849-bde0-45a06a58babe/enigma2-plugin-extensions-ipaudio7_2.07-r65_all.ipk"
+                "all": "beta-package:0aa68b7a-2dc0-4fc9-a539-05b8a94140f7/enigma2-plugin-extensions-ipaudio7_2.07-r66_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

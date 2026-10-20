@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792498397633,
+    "updated": 1792498632192,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -235,6 +235,28 @@
             "releaseId": "",
             "files": {},
             "installCommand": "wget https://raw.githubusercontent.com/Arian7s/SubExtractorLite/main/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "emilpanelpro",
+            "name": "EmilPanelPro",
+            "description": "",
+            "publisher": "Email Nabil",
+            "version": "all",
+            "order": 10,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/emilpanelpro.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh -O - | /bin/sh",
             "commandPythonVersions": [
                 "all"
             ],

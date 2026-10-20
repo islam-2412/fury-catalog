@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499674986,
+    "updated": 1792499861455,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -394,6 +394,30 @@
             ],
             "screenshots": [],
             "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "ncam-fury",
+            "name": "Ncam Fury",
+            "description": "",
+            "publisher": "Islam Salama",
+            "version": "11.7",
+            "order": 17,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "enigma2-plugin-softcams-ncam",
+            "icon": "icons/ncam-fury.webp",
+            "restartGui": true,
+            "releaseId": "2d62fc18-c2c0-42c7-826d-b7d35e12b32e",
+            "files": {
+                "all": "ipk/ncam-fury/NCam_11.7-Fury-r2_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvg5h5uo"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499995556,
+    "updated": 1792500110619,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -244,8 +244,8 @@
         {
             "id": "emilpanelpro",
             "name": "EmilPanelPro",
-            "description": "",
-            "publisher": "Email Nabil",
+            "description": "لتشغيل يلزم التواصل مع المطور",
+            "publisher": "Emil Nabil",
             "version": "all",
             "order": 10,
             "visible": true,

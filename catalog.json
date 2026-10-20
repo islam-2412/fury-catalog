@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792497755320,
+    "updated": 1792497831104,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -174,6 +174,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvg5h5uo"
+        },
+        {
+            "id": "ajpanel",
+            "name": "Ajpanel",
+            "description": "",
+            "publisher": "Biko-73",
+            "version": "10",
+            "order": 8,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/biko-73/AjPanel/main/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

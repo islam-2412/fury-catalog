@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499449200,
+    "updated": 1792499523518,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -345,6 +345,28 @@
             "releaseId": "",
             "files": {},
             "installCommand": "opkg install ffmpeg",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgntvg9"
+        },
+        {
+            "id": "plugin",
+            "name": "تعريفات الصوت",
+            "description": "لتثبيت التعريفات الصوتيه",
+            "publisher": "",
+            "version": "",
+            "order": 15,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "opkg install gstreamer1.0-plugins-good gstreamer1.0-plugins-base gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly alsa-utils alsa-conf alsa-plugins uchardet",
             "commandPythonVersions": [
                 "all"
             ],

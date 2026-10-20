@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792498632192,
+    "updated": 1792498867409,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -257,6 +257,28 @@
             "releaseId": "",
             "files": {},
             "installCommand": "wget https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "arabicsavior",
+            "name": "ArabicSavior",
+            "description": "لدعم اللغه العربيه علي اجهزة الانيجما",
+            "publisher": "fairbird",
+            "version": "",
+            "order": 11,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/arabicsavior.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
                 "all"
             ],

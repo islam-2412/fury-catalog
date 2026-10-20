@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792500233803,
+    "updated": 1792500244383,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -28,7 +28,7 @@
                 "screenshots/fury-fhd/aa4ee2a5-d024-46fb-afd6-35290990d1f2.jpg",
                 "screenshots/fury-fhd/b0e9fe49-37fa-48b2-82d4-75a6689c5c87.jpg"
             ],
-            "section": ""
+            "section": "sec-mvgocdbd"
         },
         {
             "id": "neoboot",

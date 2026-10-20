@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792470658974,
+    "updated": 1792471208904,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -142,7 +142,7 @@
             "featured": false,
             "beta": false,
             "package": "",
-            "icon": "",
+            "icon": "icons/oscam-eum.webp",
             "restartGui": true,
             "releaseId": "",
             "files": {},

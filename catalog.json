@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792500244383,
+    "updated": 1792500408972,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -418,6 +418,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvg5h5uo"
+        },
+        {
+            "id": "aglarepli",
+            "name": "AglarePli",
+            "description": "",
+            "publisher": "popking159",
+            "version": "7.3",
+            "order": 18,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/aglarepli.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -qO - https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglarepli/myinstaller.sh | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgocdbd"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

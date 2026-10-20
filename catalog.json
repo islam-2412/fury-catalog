@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499861455,
+    "updated": 1792499890300,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -397,7 +397,7 @@
         },
         {
             "id": "ncam-fury",
-            "name": "Ncam Fury",
+            "name": "NCamFury",
             "description": "",
             "publisher": "Islam Salama",
             "version": "11.7",

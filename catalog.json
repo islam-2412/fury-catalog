@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792498192935,
+    "updated": 1792498397633,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -56,6 +56,28 @@
                 "screenshots/furybiss/0b7237be-ef29-488f-b5dc-0299b714ea28.jpg",
                 "screenshots/furybiss/2fae91ca-398f-4586-b255-9a60d8cbe1fe.jpg"
             ],
+            "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "neoboot",
+            "name": "NeoBoot",
+            "description": "لعمل multiboot للاجهزة Vu",
+            "publisher": "m.elsafty",
+            "version": "9.6",
+            "order": 1,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/neoboot.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/emil237/neoboot_v9.65/main/iNB_9.65_mod-elsafty.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
             "section": "sec-mvgmubnr"
         },
         {

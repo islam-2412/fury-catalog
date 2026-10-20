@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792497723695,
+    "updated": 1792497755320,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -56,7 +56,7 @@
                 "screenshots/furybiss/0b7237be-ef29-488f-b5dc-0299b714ea28.jpg",
                 "screenshots/furybiss/2fae91ca-398f-4586-b255-9a60d8cbe1fe.jpg"
             ],
-            "section": ""
+            "section": "sec-mvgmubnr"
         },
         {
             "id": "servercoloring",
@@ -81,7 +81,7 @@
                 "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
                 "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
             ],
-            "section": ""
+            "section": "sec-mvgmubnr"
         },
         {
             "id": "vu-scan-beta",

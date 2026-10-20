@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792470127437,
+    "updated": 1792470658974,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -159,8 +159,8 @@
         {
             "id": "sec-mvg5h5uo",
             "name": "Eum",
-            "icon": "key",
-            "style": "grid",
+            "icon": "globe",
+            "style": "list",
             "color": 0,
             "order": 1,
             "visible": true

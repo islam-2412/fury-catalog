@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499257308,
+    "updated": 1792499368960,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -348,6 +348,15 @@
             "style": "list",
             "color": 6,
             "order": 2,
+            "visible": true
+        },
+        {
+            "id": "sec-mvgntvg9",
+            "name": "سكريبات-Scripts",
+            "icon": "tool",
+            "style": "banner",
+            "color": 0,
+            "order": 3,
             "visible": true
         }
     ]

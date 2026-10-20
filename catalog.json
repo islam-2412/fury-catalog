@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499523518,
+    "updated": 1792499674986,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -372,6 +372,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvgntvg9"
+        },
+        {
+            "id": "ipaudioplus",
+            "name": "IPAudioPlus",
+            "description": "",
+            "publisher": "Ahmadarjan1",
+            "version": "2.6",
+            "order": 16,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/ipaudioplus.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/Ahmadarjan1/IPAudioPlus-Releases/refs/heads/main/installer.sh -O - | /bin/bash",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792499368960,
+    "updated": 1792499449200,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -328,6 +328,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "install-ffmpeg",
+            "name": "Install  ffmpeg",
+            "description": "لتثبيت الاعدادت المفقودة",
+            "publisher": "",
+            "version": "",
+            "order": 14,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "opkg install ffmpeg",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgntvg9"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

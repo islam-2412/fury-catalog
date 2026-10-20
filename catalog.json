@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792500683355,
+    "updated": 1792510991999,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -462,6 +462,30 @@
             ],
             "screenshots": [],
             "section": "sec-mvgocdbd"
+        },
+        {
+            "id": "furycaster",
+            "name": "FuryCaster",
+            "description": "",
+            "publisher": "Islam Salama",
+            "version": "3.0",
+            "order": 20,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/furycaster.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -q --no-check-certificate https://raw.githubusercontent.com/islam-2412/FuryCaster/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [
+                "screenshots/furycaster/ccdb0cf0-1f7b-4354-91bc-53cda02a8009.jpg"
+            ],
+            "section": "sec-mvgmubnr"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

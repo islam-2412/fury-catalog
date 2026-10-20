@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792475713826,
+    "updated": 1792475730704,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -133,7 +133,7 @@
         },
         {
             "id": "oscam-eum",
-            "name": "OSCam  Eum",
+            "name": "OSCam  Emu",
             "description": "",
             "publisher": "LEVI45",
             "version": "all",

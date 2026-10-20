@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792500408972,
+    "updated": 1792500683355,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -435,6 +435,28 @@
             "releaseId": "",
             "files": {},
             "installCommand": "wget -qO - https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglarepli/myinstaller.sh | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgocdbd"
+        },
+        {
+            "id": "aglare",
+            "name": "Aglare",
+            "description": "",
+            "publisher": "popking159",
+            "version": "8.6",
+            "order": 19,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/aglare.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/popking159/skins/refs/heads/main/aglareatv/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
                 "all"
             ],

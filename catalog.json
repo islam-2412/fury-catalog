@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792497831104,
+    "updated": 1792497980886,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -186,7 +186,7 @@
             "featured": false,
             "beta": false,
             "package": "",
-            "icon": "",
+            "icon": "icons/ajpanel.webp",
             "restartGui": true,
             "releaseId": "",
             "files": {},

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792319054048,
+    "updated": 1792468554891,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -27,7 +27,8 @@
                 "screenshots/fury-fhd/2027f1bc-a874-48c7-b531-27e6a6135c1f.jpg",
                 "screenshots/fury-fhd/aa4ee2a5-d024-46fb-afd6-35290990d1f2.jpg",
                 "screenshots/fury-fhd/b0e9fe49-37fa-48b2-82d4-75a6689c5c87.jpg"
-            ]
+            ],
+            "section": ""
         },
         {
             "id": "furybiss",
@@ -54,7 +55,8 @@
                 "screenshots/furybiss/3504920d-a0d0-42da-bca2-12e6c8a32240.jpg",
                 "screenshots/furybiss/0b7237be-ef29-488f-b5dc-0299b714ea28.jpg",
                 "screenshots/furybiss/2fae91ca-398f-4586-b255-9a60d8cbe1fe.jpg"
-            ]
+            ],
+            "section": ""
         },
         {
             "id": "servercoloring",
@@ -78,7 +80,8 @@
             "screenshots": [
                 "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
                 "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
-            ]
+            ],
+            "section": ""
         },
         {
             "id": "vu-scan-beta",
@@ -101,7 +104,8 @@
             "commandPythonVersions": [
                 "all"
             ],
-            "screenshots": []
+            "screenshots": [],
+            "section": ""
         },
         {
             "id": "ipaudio7-beta",
@@ -124,8 +128,20 @@
             "commandPythonVersions": [
                 "all"
             ],
-            "screenshots": []
+            "screenshots": [],
+            "section": ""
         }
     ],
-    "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev"
+    "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",
+    "sections": [
+        {
+            "id": "sec-mvg5h5uo",
+            "name": "Eum",
+            "icon": "key",
+            "style": "grid",
+            "color": 0,
+            "order": 1,
+            "visible": true
+        }
+    ]
 }

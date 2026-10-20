@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792472467929,
+    "updated": 1792472534439,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -147,28 +147,6 @@
             "releaseId": "",
             "files": {},
             "installCommand": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/levi-45/Levi45Emulator/main/installer.sh -O - | /bin/sh",
-            "commandPythonVersions": [
-                "all"
-            ],
-            "screenshots": [],
-            "section": "sec-mvg5h5uo"
-        },
-        {
-            "id": "ncam",
-            "name": "NCam",
-            "description": "",
-            "publisher": "Biko-74",
-            "version": "15.8",
-            "order": 7,
-            "visible": true,
-            "featured": false,
-            "beta": false,
-            "package": "",
-            "icon": "icons/ncam.webp",
-            "restartGui": true,
-            "releaseId": "",
-            "files": {},
-            "installCommand": "wget https://raw.githubusercontent.com/biko-73/Ncam_EMU/main/installer.sh -O - | /bin/sh",
             "commandPythonVersions": [
                 "all"
             ],

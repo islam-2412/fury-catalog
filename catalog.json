@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792510991999,
+    "updated": 1792574020012,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -486,6 +486,28 @@
                 "screenshots/furycaster/ccdb0cf0-1f7b-4354-91bc-53cda02a8009.jpg"
             ],
             "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "service-app",
+            "name": "Service App",
+            "description": "",
+            "publisher": "",
+            "version": "",
+            "order": 21,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -q \"--no-check-certificate\" https://gitlab.com/eliesat/scripts/-/raw/main/all/_update-dependencies.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgntvg9"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

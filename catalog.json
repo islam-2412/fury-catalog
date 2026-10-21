@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792596852666,
+    "updated": 1792597083791,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -198,6 +198,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvg5h5uo"
+        },
+        {
+            "id": "sherlockmod",
+            "name": "Sherlockmod",
+            "description": "",
+            "publisher": "biko-73",
+            "version": "",
+            "order": 6,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/sherlockmod.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
         },
         {
             "id": "ncam",

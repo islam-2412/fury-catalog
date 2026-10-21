@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792596812952,
+    "updated": 1792596821870,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -29,28 +29,6 @@
                 "screenshots/fury-fhd/b0e9fe49-37fa-48b2-82d4-75a6689c5c87.jpg"
             ],
             "section": "sec-mvgocdbd"
-        },
-        {
-            "id": "neoboot",
-            "name": "NeoBoot",
-            "description": "لعمل multiboot للاجهزة Vu",
-            "publisher": "m.elsafty",
-            "version": "9.6",
-            "order": 1,
-            "visible": true,
-            "featured": false,
-            "beta": false,
-            "package": "",
-            "icon": "icons/neoboot.webp",
-            "restartGui": true,
-            "releaseId": "",
-            "files": {},
-            "installCommand": "wget https://raw.githubusercontent.com/emil237/neoboot_v9.65/main/iNB_9.65_mod-elsafty.sh -O - | /bin/sh",
-            "commandPythonVersions": [
-                "all"
-            ],
-            "screenshots": [],
-            "section": "sec-mvgmubnr"
         },
         {
             "id": "furybiss",
@@ -103,6 +81,28 @@
                 "screenshots/servercoloring/d8ecba67-3bd2-4c3b-b227-526e9e3d0684.jpg",
                 "screenshots/servercoloring/65b2ec71-018d-47b7-9136-6e42c0932c01.png"
             ],
+            "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "neoboot",
+            "name": "NeoBoot",
+            "description": "لعمل multiboot للاجهزة Vu",
+            "publisher": "m.elsafty",
+            "version": "9.6",
+            "order": 2,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/neoboot.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/emil237/neoboot_v9.65/main/iNB_9.65_mod-elsafty.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
             "section": "sec-mvgmubnr"
         },
         {

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792596599741,
+    "updated": 1792596799903,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -547,6 +547,28 @@
             "releaseId": "",
             "files": {},
             "installCommand": "wget https://raw.githubusercontent.com/fairbird/KeyAdder/main/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "raedquicksignal",
+            "name": "RaedQuickSignal",
+            "description": "لتضخيم حجم مؤشر الاشارة",
+            "publisher": "fairbird",
+            "version": "",
+            "order": 24,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/raedquicksignal.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh -O - | /bin/",
             "commandPythonVersions": [
                 "all"
             ],

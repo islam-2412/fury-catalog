@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792596414406,
+    "updated": 1792596599741,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -530,6 +530,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvg5h5uo"
+        },
+        {
+            "id": "keyadder",
+            "name": "KeyAdder",
+            "description": "",
+            "publisher": "fairbird",
+            "version": "",
+            "order": 23,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "icons/keyadder.webp",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget https://raw.githubusercontent.com/fairbird/KeyAdder/main/installer.sh -O - | /bin/sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgmubnr"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

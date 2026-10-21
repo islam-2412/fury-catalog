@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792574020012,
+    "updated": 1792574257630,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -490,7 +490,7 @@
         {
             "id": "service-app",
             "name": "Service App",
-            "description": "",
+            "description": "الحزمه الاهم في الانيجما لتنزيل المشغلات",
             "publisher": "",
             "version": "",
             "order": 21,

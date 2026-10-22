@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792597083791,
+    "updated": 1792692622778,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -596,6 +596,28 @@
             ],
             "screenshots": [],
             "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "depenci",
+            "name": "Depenci",
+            "description": "لتنزيل الملفات المفقودة في الصورة",
+            "publisher": "MohamedStore",
+            "version": "",
+            "order": 25,
+            "visible": true,
+            "featured": false,
+            "beta": false,
+            "package": "",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "",
+            "files": {},
+            "installCommand": "wget -O - https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/install.sh | sh",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": "sec-mvgntvg9"
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792697140946,
+    "updated": 1792710006880,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -635,7 +635,7 @@
             "id": "sec-mvgmubnr",
             "name": "بلاجنات-Plugins",
             "icon": "code",
-            "style": "list",
+            "style": "grid",
             "color": 6,
             "order": 2,
             "visible": true

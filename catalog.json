@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792840926786,
+    "updated": 1792842151762,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -632,9 +632,9 @@
             "package": "enigma2-plugin-extensions-furybiss",
             "icon": "",
             "restartGui": true,
-            "releaseId": "d8742b2e-d58b-4c60-b257-a24d205067ba",
+            "releaseId": "122c0df4-277a-4545-8d90-3e2cda95762d",
             "files": {
-                "all": "beta-package:6e223152-a58c-40ac-9685-5aa88fe20f6f/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_TEST15.6_all-2.ipk"
+                "all": "beta-package:faaf16a5-ab29-40f2-90cf-ca252189799c/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_DREAMONE_TEST15.7_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

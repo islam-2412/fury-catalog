@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792776940597,
+    "updated": 1792840605125,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -618,6 +618,30 @@
             ],
             "screenshots": [],
             "section": "sec-mvgntvg9"
+        },
+        {
+            "id": "furybiss-beta",
+            "name": "FuryBiss",
+            "description": "",
+            "publisher": "ISLAM SALAMA",
+            "version": "15.6",
+            "order": 26,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-furybiss",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "d8742b2e-d58b-4c60-b257-a24d205067ba",
+            "files": {
+                "all": "beta-package:6e223152-a58c-40ac-9685-5aa88fe20f6f/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_TEST15.6_all-2.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": ""
         }
     ],
     "statisticsUrl": "https://fury-community.yassin-s76m.workers.dev",

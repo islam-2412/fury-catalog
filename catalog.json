@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792842157033,
+    "updated": 1792858427316,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -624,7 +624,7 @@
             "name": "FuryBiss",
             "description": "",
             "publisher": "ISLAM SALAMA",
-            "version": "15.6",
+            "version": "15.8",
             "order": 26,
             "visible": true,
             "featured": false,
@@ -632,9 +632,9 @@
             "package": "enigma2-plugin-extensions-furybiss",
             "icon": "",
             "restartGui": true,
-            "releaseId": "122c0df4-277a-4545-8d90-3e2cda95762d",
+            "releaseId": "ffebfe3f-bad4-470e-abd8-6be7b4742bb7",
             "files": {
-                "all": "beta-package:faaf16a5-ab29-40f2-90cf-ca252189799c/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_DREAMONE_TEST15.7_all.ipk"
+                "all": "beta-package:254f9df0-1be6-46d1-acad-2873679ccf75/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_DREAMONE_TEST15.8_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

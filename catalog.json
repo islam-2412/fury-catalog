@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792840605125,
+    "updated": 1792840926786,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -626,7 +626,7 @@
             "publisher": "ISLAM SALAMA",
             "version": "15.6",
             "order": 26,
-            "visible": true,
+            "visible": false,
             "featured": false,
             "beta": true,
             "package": "enigma2-plugin-extensions-furybiss",

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1792858427316,
+    "updated": 1793366343482,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -108,30 +108,6 @@
             "section": "sec-mvgmubnr"
         },
         {
-            "id": "vu-scan-beta",
-            "name": "Vu+ Scan",
-            "description": "",
-            "publisher": "",
-            "version": "6.2",
-            "order": 4,
-            "visible": false,
-            "featured": false,
-            "beta": true,
-            "package": "enigma2-plugin-extensions-vuscan",
-            "icon": "icons/vu-scan-beta.png",
-            "restartGui": true,
-            "releaseId": "6a134026-ce29-4791-aa08-ec2319220bad",
-            "files": {
-                "all": "beta-package:e2898796-d005-4417-96c0-841cbe88e368/enigma2-plugin-extensions-vuscan_6.2-r0_all.ipk"
-            },
-            "installCommand": "",
-            "commandPythonVersions": [
-                "all"
-            ],
-            "screenshots": [],
-            "section": ""
-        },
-        {
             "id": "neoboot",
             "name": "NeoBoot",
             "description": "لعمل multiboot للاجهزة Vu",
@@ -152,6 +128,30 @@
             ],
             "screenshots": [],
             "section": "sec-mvgmubnr"
+        },
+        {
+            "id": "vu-scan-beta",
+            "name": "Vu+ Scan",
+            "description": "",
+            "publisher": "",
+            "version": "7.5",
+            "order": 4,
+            "visible": false,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-vuscan",
+            "icon": "icons/vu-scan-beta.png",
+            "restartGui": true,
+            "releaseId": "8578c0b1-4a3e-4870-b839-4fdd8b0aed37",
+            "files": {
+                "all": "beta-package:306c17e1-04a5-484f-ac4b-3b2d2eabb6c3/enigma2-plugin-extensions-vuscan_7.5-r0_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": ""
         },
         {
             "id": "ipaudio7-beta",

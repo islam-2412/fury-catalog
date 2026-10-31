@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1793366374299,
+    "updated": 1793449168659,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -270,7 +270,7 @@
             "name": "SubExtractorLite",
             "description": "",
             "publisher": "Arian7s",
-            "version": "2.4",
+            "version": "2.5.1",
             "order": 9,
             "visible": true,
             "featured": false,

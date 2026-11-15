@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1794734114745,
+    "updated": 1794752447279,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -158,7 +158,7 @@
             "name": "IPAudio7",
             "description": "",
             "publisher": "Islam Salama",
-            "version": "76",
+            "version": "r89",
             "order": 5,
             "visible": false,
             "featured": false,
@@ -166,9 +166,9 @@
             "package": "enigma2-plugin-extensions-ipaudio7",
             "icon": "",
             "restartGui": true,
-            "releaseId": "fbbe9ba7-8482-4ed6-824d-de5f0f408bd6",
+            "releaseId": "69f1cd37-3f19-498e-8b84-b6e93c44cf46",
             "files": {
-                "all": "beta-package:bbf19a05-3ae6-40a0-b060-13b03e9bcdb9/enigma2-plugin-extensions-ipaudio7_2.07-r77_all.ipk"
+                "all": "beta-package:0832a7d2-2158-4082-8500-8b6d60b7d52d/enigma2-plugin-extensions-ipaudio7_2.07-r89_all__2_.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1793449168659,
+    "updated": 1794734100150,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -635,6 +635,30 @@
             "releaseId": "ffebfe3f-bad4-470e-abd8-6be7b4742bb7",
             "files": {
                 "all": "beta-package:254f9df0-1be6-46d1-acad-2873679ccf75/enigma2-plugin-extensions-furybiss_6.3.2_DUO4K_DREAMONE_TEST15.8_all.ipk"
+            },
+            "installCommand": "",
+            "commandPythonVersions": [
+                "all"
+            ],
+            "screenshots": [],
+            "section": ""
+        },
+        {
+            "id": "furysub-beta",
+            "name": "FurySub",
+            "description": "",
+            "publisher": "Islam Salama",
+            "version": "4.5",
+            "order": 27,
+            "visible": true,
+            "featured": false,
+            "beta": true,
+            "package": "enigma2-plugin-extensions-furysubtrans",
+            "icon": "",
+            "restartGui": true,
+            "releaseId": "fe5acbfe-33af-460b-aa45-b11d9b7589e4",
+            "files": {
+                "all": "beta-package:92c9fa3b-e087-486d-842d-2118e84233db/enigma2-plugin-extensions-furysubtrans_4.5_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

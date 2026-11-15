@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1794770499433,
+    "updated": 1794770502032,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -650,7 +650,7 @@
             "publisher": "Islam Salama",
             "version": "4.5",
             "order": 27,
-            "visible": true,
+            "visible": false,
             "featured": false,
             "beta": true,
             "package": "enigma2-plugin-extensions-furysubtrans",

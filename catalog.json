@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1794821118346,
+    "updated": 1794821205309,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -648,7 +648,7 @@
             "name": "FurySub",
             "description": "",
             "publisher": "Islam Salama",
-            "version": "4.11",
+            "version": "4.12",
             "order": 27,
             "visible": true,
             "featured": false,

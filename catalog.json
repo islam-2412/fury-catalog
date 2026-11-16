@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1794867443608,
+    "updated": 1794868999814,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -656,9 +656,9 @@
             "package": "enigma2-plugin-extensions-furysubtrans",
             "icon": "",
             "restartGui": true,
-            "releaseId": "f1b5d606-aae0-407b-a8df-784f5e9fd4a7",
+            "releaseId": "987551ee-e965-427d-b5bd-ade56fdc22e8",
             "files": {
-                "3.13": "beta-package:f74f6d2e-8c3e-44de-b88a-ebd54e829be0/furysubtrans_1.0_py3.13_arm.ipk"
+                "3.13": "beta-package:61f4648d-3891-47f4-9b37-d42feace6993/furysubtrans_1.0_py3.13_arm-1.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

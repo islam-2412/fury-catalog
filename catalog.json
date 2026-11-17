@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1794868999814,
+    "updated": 1794909267683,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -648,7 +648,7 @@
             "name": "FurySub",
             "description": "",
             "publisher": "Islam Salama",
-            "version": "1.0",
+            "version": "4.24",
             "order": 27,
             "visible": true,
             "featured": false,
@@ -656,9 +656,9 @@
             "package": "enigma2-plugin-extensions-furysubtrans",
             "icon": "",
             "restartGui": true,
-            "releaseId": "987551ee-e965-427d-b5bd-ade56fdc22e8",
+            "releaseId": "f73d69f8-c571-432c-bf7f-d25911bef2fb",
             "files": {
-                "3.13": "beta-package:61f4648d-3891-47f4-9b37-d42feace6993/furysubtrans_1.0_py3.13_arm-1.ipk"
+                "all": "beta-package:2f32d70f-9f7b-4f98-b03a-490f45daccdb/enigma2-plugin-extensions-furysubtrans_4.24_all.ipk"
             },
             "installCommand": "",
             "commandPythonVersions": [

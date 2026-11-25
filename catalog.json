@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "updated": 1795637832005,
+    "updated": 1795637834858,
     "plugins": [
         {
             "id": "fury-fhd",
@@ -160,7 +160,7 @@
             "publisher": "Islam Salama",
             "version": "r90",
             "order": 5,
-            "visible": false,
+            "visible": true,
             "featured": false,
             "beta": true,
             "package": "enigma2-plugin-extensions-ipaudio7",
